@@ -3,7 +3,7 @@
 - 🔭  Atualmente estou trabalhando em projetos web com ReactJs e mobile com React Native.
 - 📜  Atualmente estou aprendendo NextJS
 - 📚  Estou lendo o livro Código Limpo de Robert C. Martin
-- 🚀  Conhecimentos: Acessibilidade, SEO, Analytics, Mobile First, Context API, Redux, Hooks, Styled-components, Storybook, Design System, Testes unitários, Monorepo, Figma, Firebase, AppCenter, SOLID, Versionamneto app lojas Google Play e Play Store
+- 🚀  Conhecimentos: Acessibilidade, SEO, Analytics, Mobile First, Context API, Redux, Hooks, Styled-components, SASS, Storybook, Design System, Testes unitários, Monorepo, Figma, Firebase, AppCenter, SOLID, Versionamneto app lojas Google Play e Play Store
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
