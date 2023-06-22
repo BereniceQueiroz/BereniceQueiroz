@@ -1,6 +1,6 @@
 # Olá 👋
 
-Meu nome é Berenice,Comecei a programar em 2018.
+Meu nome é Berenice!
 
 - 🔭  Atualmente estou trabalhando em projetos web com ReactJs e mobile com React Native.
 - 📜  Atualmente estou aprendendo NextJS
