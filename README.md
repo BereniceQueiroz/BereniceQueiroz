@@ -3,7 +3,7 @@
 Meu nome é Berenice!
 
 - 🔭  Atualmente estou trabalhando em projetos web com ReactJs e mobile com React Native.
-- 📜  Atualmente estou aprendendo NextJS
+- 📜  Atualmente estou aprendendo NodeJS
 - 📚  Estou lendo o livro Código Limpo de Robert C. Martin
 
 ## 🚀 Possuo conhecimentos em:
@@ -25,6 +25,7 @@ Meu nome é Berenice!
 - Firebase,
 - AppCenter,
 - SOLID,
+- NextJS
 - Versionamento app lojas Google Play e Play Store
 <hr />
 
